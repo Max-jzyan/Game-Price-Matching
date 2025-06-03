@@ -1,4 +1,5 @@
 # Game-Price-Matching
+The source code of this project cannot be published due to policy issue. Here is a brief introduction on the main tech stacks and key functionalities
 ## Tech Stacks
 Oracle DB transferred to Postgres DB, Javascript, ReactJS, SQL
 
